@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building AI-powered products and real-world solutions  <br><br>👯 Open to collaborating on AI, SaaS, and innovative tech ideas  <br><br>🤝 Exploring ways to scale and optimize systems  <br><br>🌱 Learning AI, ML, and Cloud technologies  <br><br>💬 Ask me about building, automation, and tech ideas  <br><br>⚡ Fun fact: I believe execution > ideas 🚀
+🔭 Building AI-powered products and real-world solutions  <br>👯 Open to collaborating on AI, SaaS, and innovative tech ideas  <br>🤝 Exploring ways to scale and optimize systems  <br>🌱 Learning AI, ML, and Cloud technologies  <br><br>💬 Ask me about building, automation, and tech ideas  <br>⚡ Fun fact: I believe execution > ideas 🚀
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VedasarathiV&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VedasarathiV&icon=0&color=0)](https://visitcount.itsvg.in)
