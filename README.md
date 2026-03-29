@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 Hey, I'm Veda Sarathi 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+AI-powered+products;SaaS+%7C+Automation+%7C+AI;Exploring+Agentic+Workflows;Execution+%3E+Ideas+🚀)](https://git.io/typing-svg)
