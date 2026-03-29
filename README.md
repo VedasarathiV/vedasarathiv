@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Building AI-powered products and real-world solutions  <br>👯 Open to collaborating on AI, SaaS, and innovative tech ideas  <br>🤝 Exploring ways to scale and optimize systems  <br>🌱 Learning AI, ML, and Cloud technologies  <br><br>💬 Ask me about building, automation, and tech ideas  <br>⚡ Fun fact: I believe execution > ideas 🚀
+🔭 Building AI-powered products and real-world solutions  <br>👯 Open to collaborating on AI, SaaS, and innovative tech ideas  <br>🤝 Exploring ways to scale and optimize systems  <br>🌱 Learning AI, ML, and Cloud technologies  <br>💬 Ask me about building, automation, and tech ideas  <br>⚡ Fun fact: I believe execution > ideas 🚀
 
 
 ## 🌐 Socials:
