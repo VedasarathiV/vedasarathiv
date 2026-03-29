@@ -93,13 +93,14 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VedasarathiV&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VedasarathiV&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VedasarathiV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ⚡ Currently Building
+
+- 🤖 Agentic AI workflows  
+- 🧠 AI-powered SaaS products  
+- ⚙️ Automation systems for real-world problems  
+📌 Focus: Execution over experimentation
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VedasarathiV&icon=0&color=0)](https://visitcount.itsvg.in)
