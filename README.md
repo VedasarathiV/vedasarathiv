@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=ServiceNow+Developer+%7C+ITSM+%7C+Automation;AWS+%7C+MongoDB+%7C+Cloud;Building+AI-powered+products;Exploring+Agentic+Workflows;Execution+%3E+Ideas+🚀)](https://git.io/typing-svg)
 
-<br>
-
 ### 🛡️ *"I can do this all day."*
 **— Steve Rogers**
 
