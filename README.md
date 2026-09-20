@@ -263,11 +263,19 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@simply_sarathi)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedasaradhiv@gmail.com)
 
+---
 
-### ✍️ Random Dev Quote
+<div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+### ✍️ Quote
 
+> ## **"I can do this all day."**
+
+**— Steve Rogers**
+
+</div>
+
+---
 ---
 
 ### ⚡ ServiceNow • Automate • Build • Scale 🚀
