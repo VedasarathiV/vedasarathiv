@@ -379,27 +379,6 @@ Intelligent Automation
 
 ---
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=VedasarathiV&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=0B3A66&hide_border=true"
-width="100%"
-/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/github/followers/VedasarathiV?label=Followers&style=flat-square&color=161B22&labelColor=0D1117"/>
-<img src="https://img.shields.io/github/stars/VedasarathiV?affiliations=OWNER&style=flat-square&color=161B22&labelColor=0D1117"/>
-<img src="https://komarev.com/ghpvc/?username=VedasarathiV&label=Profile+Views&color=161B22&style=flat-square"/>
-
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
