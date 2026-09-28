@@ -1,5 +1,7 @@
 <div align="center">
+  
 <img src="./gotham-city.png" width="100%" alt="Gotham themed banner"/>
+
 # VEDA SARATHI V
 
 ### ServiceNow • ITSM • Automation • Cloud • AI
