@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./gotham-banner.png" width="100%" alt="Gotham themed banner"/>
+<img src="./gotham-city.png" width="100%" alt="Gotham themed banner"/>
 
 # VEDA SARATHI
 
