@@ -281,25 +281,126 @@ AR spatial storytelling and immersive experiences.
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Developer Snapshot
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+### 🧩 Focus
+
+**ServiceNow**
+
+`ITSM`  
+`Flow Designer`  
+`Automation`
+
+</td>
+
+<td width="25%" align="center">
+
+### ☁️ Cloud
+
+**AWS**
+
+`EC2`  
+`S3`  
+`IAM`
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️ Backend
+
+**Node + MongoDB**
+
+`REST APIs`  
+`Express`  
+`MongoDB`
+
+</td>
+
+<td width="25%" align="center">
+
+### 🤖 AI
+
+**Intelligent Systems**
+
+`AI Products`  
+`Agents`  
+`Automation`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⚡ Currently
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### `BUILDING`
+
+ServiceNow Workflows  
+AI-powered Products  
+Automation Systems
+
+</td>
+
+<td width="33%" align="center">
+
+### `LEARNING`
+
+AWS Cloud  
+Advanced ServiceNow  
+Agentic AI
+
+</td>
+
+<td width="33%" align="center">
+
+### `EXPLORING`
+
+Cloud Architecture  
+Backend Systems  
+Intelligent Automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=VedasarathiV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9D1D9&icon_color=58A6FF&text_color=8B949E"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=VedasarathiV&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=VedasarathiV&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=0B3A66&hide_border=true"
+width="100%"
+/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VedasarathiV&bg_color=0D1117&color=8B949E&line=58A6FF&point=C9D1D9&area=true&area_color=0B3A66&hide_border=true" width="100%"/>
+<img src="https://img.shields.io/github/followers/VedasarathiV?label=Followers&style=flat-square&color=161B22&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/stars/VedasarathiV?affiliations=OWNER&style=flat-square&color=161B22&labelColor=0D1117"/>
+<img src="https://komarev.com/ghpvc/?username=VedasarathiV&label=Profile+Views&color=161B22&style=flat-square"/>
 
 </div>
 
 ---
 
-## 🌐 Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -315,15 +416,34 @@ AR spatial storytelling and immersive experiences.
 <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=C9D1D9"/>
 </a>
 
+<a href="https://x.com/Vedasarathi11">
+<img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=C9D1D9"/>
+</a>
+
+<a href="https://www.youtube.com/@simply_sarathi">
+<img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=C9D1D9"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### `OPEN TO`
+
+**ServiceNow • Automation • AI • SaaS • Product Collaboration**
+
 </div>
 
 ---
 
 <div align="center">
 
-### `BUILD • AUTOMATE • SCALE`
+### `BUILD → AUTOMATE → IMPROVE → SCALE`
 
-**ServiceNow • Cloud • Automation • AI**
+**ServiceNow Developer · Automation Builder · Cloud Learner · AI Explorer**
+
+<sub>
+Turning ideas into systems.
+</sub>
 
 </div>
-```
