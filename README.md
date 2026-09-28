@@ -1,13 +1,23 @@
 <div align="center">
 
-# 💫 Hey, I'm Veda Sarathi 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,50:0D1117,100:111111&text=VEDA%20SARATHI&fontColor=F2C94C&fontSize=52&fontAlignY=38&desc=ServiceNow%20•%20ITSM%20•%20Automation%20•%20Cloud%20•%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-### ServiceNow • ITSM • Automation • Cloud • AI
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=ServiceNow+Developer+%7C+ITSM+%7C+Automation;AWS+%7C+MongoDB+%7C+Cloud;Building+AI-powered+products;Exploring+Agentic+Workflows;Execution+%3E+Ideas+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=F2C94C&center=true&vCenter=true&width=850&lines=ServiceNow+Developer+%7C+ITSM+%7C+Automation;AWS+%7C+MongoDB+%7C+Cloud;Building+Enterprise+Workflow+Systems;Building+AI-powered+Products;Exploring+Agentic+AI+Workflows;Execution+%3E+Ideas)](https://git.io/typing-svg)
+
+<br/>
+
+### ⚡ BUILD • AUTOMATE • SOLVE • SCALE
+
+<br/>
 
 ### 🛡️ *"I can do this all day."*
 **— Steve Rogers**
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=VedasarathiV&label=PROFILE+VIEWS&color=F2C94C&style=for-the-badge)
 
 </div>
 
@@ -16,33 +26,41 @@
 # 💫 About Me
 
 🔭 Focused on **ServiceNow Development, ITSM & Workflow Automation**  
-⚙️ Building automation systems and real-world technology solutions  
+⚙️ Building **automation systems and real-world technology solutions**  
 ☁️ Learning and working with **AWS Cloud technologies**  
 🗄️ Exploring **MongoDB, backend systems & API integrations**  
 🤖 Building **AI-powered products and Agentic AI workflows**  
-👯 Open to collaborating on **ServiceNow, AI, SaaS & innovative tech ideas**  
-🤝 Interested in optimizing and scaling digital systems  
-💬 Ask me about **ServiceNow, automation, AI & product building**  
-⚡ I believe **Execution > Ideas 🚀**
+👯 Open to collaborating on **ServiceNow, AI, SaaS & innovative technology projects**  
+🤝 Interested in **optimizing and scaling digital systems**  
+💬 Ask me about **ServiceNow, automation, cloud, AI & product building**  
+⚡ I believe **Execution > Ideas**
 
 ---
 
 # ⚡ Currently Building & Learning
 
-- 🟢 ServiceNow applications & enterprise workflows
-- 🎫 ITSM solutions
-- 🔄 Flow Designer automations
-- 🤖 Agentic AI workflows
-- 🧠 AI-powered SaaS products
-- ☁️ AWS Cloud technologies
-- 🗄️ MongoDB-backed applications
-- ⚙️ Automation systems for real-world problems
+- ServiceNow applications & enterprise workflows
+- ITSM solutions
+- Flow Designer automations
+- Agentic AI workflows
+- AI-powered SaaS products
+- AWS Cloud technologies
+- MongoDB-backed applications
+- Backend systems & API integrations
+- Automation systems for real-world problems
 
-### 🎯 Current Focus
+---
+
+# 🎯 Current Focus
 
 <div align="center">
 
-**ServiceNow • ITSM • Workflow Automation • AWS • MongoDB • AI**
+![ServiceNow](https://img.shields.io/badge/ServiceNow-111111?style=for-the-badge&logo=servicenow&logoColor=F2C94C)
+![ITSM](https://img.shields.io/badge/ITSM-111111?style=for-the-badge&logoColor=F2C94C)
+![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-111111?style=for-the-badge&logo=githubactions&logoColor=F2C94C)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=F2C94C)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=F2C94C)
+![AI](https://img.shields.io/badge/AI-111111?style=for-the-badge&logo=openai&logoColor=F2C94C)
 
 </div>
 
@@ -52,14 +70,16 @@
 
 <div align="center">
 
-![ServiceNow](https://img.shields.io/badge/ServiceNow-032D42?style=flat&logo=servicenow&logoColor=white)
-![ITSM](https://img.shields.io/badge/ITSM-81B5A1?style=flat)
-![Flow Designer](https://img.shields.io/badge/Flow%20Designer-1F8B4C?style=flat)
-![Automation](https://img.shields.io/badge/Workflow%20Automation-008000?style=flat)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-111111?style=for-the-badge&logo=servicenow&logoColor=F2C94C)
+![ITSM](https://img.shields.io/badge/ITSM-111111?style=for-the-badge&logoColor=F2C94C)
+![Flow Designer](https://img.shields.io/badge/Flow_Designer-111111?style=for-the-badge&logoColor=F2C94C)
+![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=githubactions&logoColor=F2C94C)
 
 </div>
 
-### ⚙️ Platform & Administration
+---
+
+## ⚙️ Platform & Administration
 
 - ServiceNow Administration
 - Users, Groups & Roles
@@ -67,8 +87,12 @@
 - Reports & Dashboards
 - Notifications
 - Update Sets
+- Access Controls
+- Platform Configuration
 
-### 🎫 ITSM
+---
+
+## 🎫 ITSM
 
 - Incident Management
 - Problem Management
@@ -77,8 +101,11 @@
 - Service Catalog
 - Knowledge Management
 - SLA Fundamentals
+- Service Management Processes
 
-### 💻 Development
+---
+
+## 💻 Development
 
 - Business Rules
 - Client Scripts
@@ -87,8 +114,12 @@
 - Script Includes
 - GlideRecord
 - JavaScript in ServiceNow
+- Server-side scripting
+- Client-side scripting
 
-### 🔄 Automation & Integration
+---
+
+## 🔄 Automation & Integration
 
 - Flow Designer
 - Flows & Subflows
@@ -97,6 +128,8 @@
 - Import Sets
 - Transform Maps
 - ACL & Role-Based Access
+- Webhooks
+- External API Integrations
 
 ---
 
@@ -106,12 +139,12 @@
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=F2C94C)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F2C94C)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=F2C94C)
+![C%23](https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=csharp&logoColor=F2C94C)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=F2C94C)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=F2C94C)
 
 </p>
 
@@ -121,12 +154,12 @@
 
 <p align="center">
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=F2C94C)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=F2C94C)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=F2C94C)
+![Next JS](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=F2C94C)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=F2C94C)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=F2C94C)
 
 </p>
 
@@ -136,11 +169,12 @@
 
 <p align="center">
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![NodeJS](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=F2C94C)
+![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=F2C94C)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=F2C94C)
+![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=for-the-badge&logo=graphql&logoColor=F2C94C)
+![JWT](https://img.shields.io/badge/JWT-111111?style=for-the-badge&logo=jsonwebtokens&logoColor=F2C94C)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=F2C94C)
 
 </p>
 
@@ -150,12 +184,12 @@
 
 <p align="center">
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=F2C94C)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=F2C94C)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=F2C94C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=F2C94C)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=F2C94C)
+![OpenCV](https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=F2C94C)
 
 </p>
 
@@ -165,13 +199,15 @@
 
 <p align="center">
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=F2C94C)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=F2C94C)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=F2C94C)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=F2C94C)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=F2C94C)
 
 </p>
+
+---
 
 ### 🍃 MongoDB
 
@@ -182,6 +218,7 @@
 - Schema Design
 - Data Modeling
 - MongoDB with Node.js & Express
+- Backend Database Integration
 
 ---
 
@@ -189,12 +226,14 @@
 
 <p align="center">
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=F2C94C)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=F2C94C)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=F2C94C)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111111?style=for-the-badge&logo=cloudflare&logoColor=F2C94C)
 
 </p>
+
+---
 
 ### ☁️ AWS
 
@@ -205,7 +244,10 @@
 - Amazon VPC
 - Cloud Networking
 - Cloud Security Fundamentals
-- IaaS • PaaS • SaaS • XaaS
+- IaaS
+- PaaS
+- SaaS
+- XaaS
 
 ---
 
@@ -213,9 +255,10 @@
 
 <p align="center">
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Workflow-blue?style=flat)
-![API](https://img.shields.io/badge/API-Integration-orange?style=flat)
+![n8n](https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=F2C94C)
+![Automation](https://img.shields.io/badge/Automation-111111?style=for-the-badge&logo=githubactions&logoColor=F2C94C)
+![API](https://img.shields.io/badge/API_Integration-111111?style=for-the-badge&logo=fastapi&logoColor=F2C94C)
+![Webhooks](https://img.shields.io/badge/Webhooks-111111?style=for-the-badge&logo=webhook&logoColor=F2C94C)
 
 </p>
 
@@ -227,6 +270,7 @@
 - Business Process Automation
 - AI-Assisted Workflows
 - Agentic AI Workflows
+- Workflow Optimization
 
 ---
 
@@ -234,14 +278,142 @@
 
 <p align="center">
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F2C94C)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2C94C)
+![Postman](https://img.shields.io/badge/Postman-111111?style=for-the-badge&logo=postman&logoColor=F2C94C)
+![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=F2C94C)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F2C94C)
+![Power BI](https://img.shields.io/badge/Power_BI-111111?style=for-the-badge&logo=powerbi&logoColor=F2C94C)
 
 </p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌱 VedCrop
+
+### AI-powered Crop Disease Detection
+
+AI-powered mobile application designed to help farmers detect crop diseases using images and receive useful treatment recommendations.
+
+**Core Focus**
+
+- Computer Vision
+- Mobile Application
+- Offline AI
+- Agriculture Technology
+- Farmer-first Design
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🏗️ NAHTREEK
+
+### Construction & Service Marketplace
+
+Multi-application marketplace connecting customers with civil engineers and home-service professionals.
+
+**Core Focus**
+
+- React Native
+- Node.js
+- MongoDB
+- REST APIs
+- Marketplace Architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🚀 StartSync
+
+### AI Startup Collaboration Platform
+
+AI-powered collaborative platform for startup team formation, project execution, mentorship and team coordination.
+
+**Core Focus**
+
+- AI Matchmaking
+- SaaS
+- Team Collaboration
+- Project Management
+- Automation
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌌 Mithrai
+
+### AR Spatial Storytelling
+
+Immersive spatial storytelling platform focused on augmented reality and interactive experiences.
+
+**Core Focus**
+
+- AR
+- WebXR
+- 3D
+- Spatial Computing
+- Immersive Experiences
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=VedasarathiV&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F2C94C&icon_color=F2C94C&text_color=C9D1D9"
+/>
+
+<img
+  width="49%"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=VedasarathiV&hide_border=true&background=0D1117&ring=F2C94C&fire=F2C94C&currStreakLabel=F2C94C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  width="60%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VedasarathiV&layout=compact&hide_border=true&bg_color=0D1117&title_color=F2C94C&text_color=C9D1D9"
+/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=VedasarathiV&bg_color=0D1117&color=C9D1D9&line=F2C94C&point=F2C94C&area=true&area_color=F2C94C&hide_border=true"
+  width="100%"
+/>
+
+</div>
 
 ---
 
@@ -251,27 +423,33 @@
 
 <p align="center">
 
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F2C94C)
+![Framer](https://img.shields.io/badge/Framer-111111?style=for-the-badge&logo=framer&logoColor=F2C94C)
 
 </p>
+
+---
 
 ## 🎨 Visual Design
 
 <p align="center">
 
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-%231B72BE.svg?style=flat&logo=affinity-designer&logoColor=white)
-![Affinity Photo](https://img.shields.io/badge/Affinity%20Photo-%237E4DD2.svg?style=flat&logo=affinity-photo&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-111111?style=for-the-badge&logo=adobeillustrator&logoColor=F2C94C)
+![Affinity Designer](https://img.shields.io/badge/Affinity_Designer-111111?style=for-the-badge&logo=affinitydesigner&logoColor=F2C94C)
+![Affinity Photo](https://img.shields.io/badge/Affinity_Photo-111111?style=for-the-badge&logo=affinityphoto&logoColor=F2C94C)
 
 </p>
+
+---
 
 ### 🧠 Design Thinking
 
 - UI/UX Principles
 - Product Thinking
 - User-Centered Design
-- Wireframing & Prototyping
+- Wireframing
+- Prototyping
+- Visual Design Systems
 
 ---
 
@@ -279,10 +457,10 @@
 
 <p align="center">
 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat&logo=Raspberry-Pi)
+![Unity](https://img.shields.io/badge/Unity-111111?style=for-the-badge&logo=unity&logoColor=F2C94C)
+![Blender](https://img.shields.io/badge/Blender-111111?style=for-the-badge&logo=blender&logoColor=F2C94C)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=for-the-badge&logo=arduino&logoColor=F2C94C)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-111111?style=for-the-badge&logo=raspberrypi&logoColor=F2C94C)
 
 </p>
 
@@ -292,12 +470,29 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veda-sarathi-v-56093828a/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VedasarathiV)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/single_smiler/)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Vedasarathi11)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@simply_sarathi)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedasaradhiv@gmail.com)
+<a href="https://www.linkedin.com/in/veda-sarathi-v-56093828a/">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=F2C94C"/>
+</a>
+
+<a href="https://github.com/VedasarathiV">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=F2C94C"/>
+</a>
+
+<a href="https://www.instagram.com/single_smiler/">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=F2C94C"/>
+</a>
+
+<a href="https://x.com/Vedasarathi11">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=F2C94C"/>
+</a>
+
+<a href="https://www.youtube.com/@simply_sarathi">
+<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=F2C94C"/>
+</a>
+
+<a href="mailto:vedasaradhiv@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=F2C94C"/>
+</a>
 
 </div>
 
@@ -305,10 +500,16 @@
 
 <div align="center">
 
-### 🟢 ServiceNow Developer
+### 🟡 ServiceNow Developer
 
 **ITSM • Workflow Automation • AWS • MongoDB • AI**
 
-### ⚡ Learn • Build • Automate • Scale 🚀
+<br/>
+
+### ⚡ Learn • Build • Automate • Scale
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:111111,50:0D1117,100:050505" width="100%"/>
 
 </div>
