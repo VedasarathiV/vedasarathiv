@@ -2,8 +2,6 @@
 
 <img src="./assets/gotham-banner.png" width="100%" alt="Gotham themed banner"/>
 
-<br/>
-
 # VEDA SARATHI
 
 ### ServiceNow • ITSM • Automation • Cloud • AI
@@ -11,9 +9,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=700&color=8B949E&center=true&vCenter=true&width=700&height=35&lines=ServiceNow+Developer+%2F%2F+ITSM+%2F%2F+Automation;Building+systems+that+solve+real+problems;Cloud+%2F%2F+Backend+%2F%2F+AI;Execution+%3E+Ideas)](https://git.io/typing-svg)
 
 `Execution > Ideas`
-
-<br/>
-
 ### 🛡️ *"I can do this all day."*
 **— Steve Rogers**
 
